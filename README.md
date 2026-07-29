@@ -1,7 +1,5 @@
 # Design and Analysis of Algorithms (DAA) Assignments
 
-This repository serves as an index for my DAA coursework. The implementations and solutions are available in the repositories below.
-
 ## Repository References
 
 ### 📂 Data Structures and Algorithms (DSA)
@@ -16,7 +14,7 @@ This repository contains the implementations of various Data Structures and Algo
 
 This repository contains the solutions for the following DAA assignment questions.
 
-🔗 https://github.com/Aaditya0411/LeetCode
+🔗 https://github.com/Aaditya0411/LeetCode-Questions.git
 
 ## Assignment 1
 
